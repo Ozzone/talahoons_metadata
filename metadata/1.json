@@ -2,7 +2,7 @@
   "name": "Talahoons #1",
   "symbol": "TLHN",
   "description": "This pass will give you access to the Talahoon world",
-  "image": "https://i.imgur.com/WziMhF0.png",
+  "image": "https://imgur.com/WziMhF0.png",
   "external_url": "",
   "collection": {
     "name": "Talahoons",
@@ -15,7 +15,7 @@
         "type": "image/png"
       }
     ],
-    "category": "Pass",
+    "category": "image",
     "creators": [
       {
         "address": "0xA17f14016Ce5b5153c776aE2DCfe8Bd81f7c40DB",
